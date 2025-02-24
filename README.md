@@ -15,6 +15,7 @@
 | 2024 | Doubler | Yield | 1st  | TBD |
 
 ### Team audits
+---
 
 ### Pashov Group
 
