@@ -42,7 +42,8 @@
 | Year | Project | Category | Report |
 | :---: | :---: | :--- | :---  |
 | 2024 | Philand | NFT | TBD |
-| 2024 | Tempest Finance | Liquidity Management | TBD |
+| 2024 | Tempest Finance round 1 | Liquidity Management | [📝](https://github.com/Tempest-Finance/core-public/blob/main/audits/Renascence%20Labs%20Audit%2008-2024.pdf) |
+| 2024 | Tempest Finance round 2 | Liquidity Management | [📝](https://github.com/Tempest-Finance/core-public/blob/main/audits/Renascence%20Labs%20Audit%2009-2024.pdf) |
 | 2024 | Morpheus AI | AI Agents | TBD |
 
 ### Trust Security
