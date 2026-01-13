@@ -1,6 +1,8 @@
 # Portfolio
 
 ### Competition audits highlights
+**Code4rena** - https://code4rena.com/@SpicyMeatball 
+**Cantina** - https://cantina.xyz/u/SpicyMeatball
 
 | Year | Project | Category | Placement| Report |
 | :---: | :---: | :--- | :---  | :--- |
