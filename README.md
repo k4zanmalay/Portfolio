@@ -20,6 +20,15 @@
 ### Team audits
 ---
 
+### Burra Security
+
+| Year | Project | Category | Report |
+| :---: | :---: | :--- | :---  |
+| 2025 | Centrifuge | Axelar/Wormhole cross-chain integration | TBU |
+| 2025 | Centrifuge | Chainlink cross-chain integration | TBU |
+
+
+
 ### Pashov Group
 
 | Year | Project | Category | Report |
