@@ -12,7 +12,10 @@
 | 2024 | Abracadabra Mimswap | DEX | 4th  | [📝](https://code4rena.com/reports/2024-03-abracadabra-money) |
 | 2024 | Arbitrum BoLD | L2, Cross-chain | 4th  | [📝](https://code4rena.com/reports/2024-05-arbitrum-foundation) |
 | 2024 | Munchables | GameFi | 1st  | [📝](https://code4rena.com/reports/2024-05-munchables) |
-| 2024 | Doubler | Yield | 1st  | TBD |
+| 2024 | Doubler | Yield | 1st  | Private |
+| 2025 | Jigsaw Finance | Lending | 5th  | [📝](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
+| 2025 | Makina CTF | Yield, Cross-chain | 1st  | [📝](https://cantina.xyz/code/2adf7150-27ba-4cba-86a2-bd8ea175e7da/overview/leaderboard) |
+| 2025 | Certora Capture The Funds CTF | CTF | 3rd  | [📝](https://x.com/Certora/status/2007114936380703194?s=20) |
 
 ### Team audits
 ---
@@ -37,9 +40,10 @@
 | 2024 | BOB USDC Bridge | Cross-chain | [📝](https://github.com/pashov/audits/blob/master/team/pdf/BOB-USDCBridge-security-review.pdf) |
 | 2024 | 1Inch | DEX | [📝](https://github.com/pashov/audits/blob/master/team/pdf/1inch-security-review.pdf) |
 | 2025 | AiMi round 1 | Launchpad | TBU |
-| 2025 | Resolv | Staking, Stablecoin | TBU |
-| 2025 | Tanssi | Cross-Chain, Staking | TBU |
+| 2025 | Resolv | Staking, Stablecoin | [📝](https://github.com/pashov/audits/blob/master/team/pdf/Resolv-security-review_2025-04-15.pdf) |
+| 2025 | Tanssi | Cross-Chain, Staking | [📝](https://github.com/pashov/audits/blob/master/team/pdf/Tanssi-security-review_2025-04-30.pdf) |
 | 2025 | AiMi round 2 | Launchpad | TBU |
+| 2025 | Reya Network | Token distributor | TBU |
 
 ### Renascence
 
@@ -64,6 +68,7 @@
 | 2025 | Stake.Link | LINK LST | [📝](https://github.com/stakedotlink/contracts/blob/main/audits/%5B2025-02-04%5D%20Trust%20-%20LINK%20Staking%20Withdrawals.pdf) |
 | 2025 | Interpol | LP locker, BERA | TBU |
 | 2025 | FatBera | BERA LST | [📝](https://github.com/0xHoneyJar/fatBERA/blob/main/audits/fatBERA_TRUST.pdf) |
+| 2025 | StakeDAO | CurveFi, Yield, Oracles | [📝](https://github.com/stake-dao/audits/blob/main/misc/2025-08-27_trust_security_misc_curve_oracles.pdf) |
 
 ### Zenith Security
 
@@ -84,17 +89,24 @@
 | 2024 | Shogun | Cross-chain | [📝](https://github.com/zenith-security/reports/blob/main/reports/Shogun%20-%20Zenith%20Audit%20Report.pdf) |
 | 2025 | Diambra | AI Agents, GameFi | TBU |
 | 2025 | SOFA Automator | Vault, Yield | [📝](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Sofa%20Automator%202.0.pdf) |
-| 2025 | Virtuals | AI Agents, Launchpad, Staking | TBU |
+| 2025 | Virtuals AI | AI Agents, Launchpad, Staking | [📝](https://github.com/zenith-security/reports/blob/main/reports/Virtuals%20Protocol%20AI%20Agents%20-%20Zenith%20Audit%20Report.pdf) |
 | 2025 | Gondi | Lending | TBU |
 | 2025 | Citrex | Perpetuals, Order book | [📝](https://github.com/zenith-security/reports/blob/main/reports/Citrex%20Audit%20Report%20-%20Zenith%20Audit%20Report.pdf) |
 | 2025 | Flow | Lending | TBU |
 | 2025 | Legion | Launchpad | TBU |
 | 2025 | PoolTogether | Yield, Lottery | TBU |
-| 2025 | Tempest Finance | Liquidity Management, Vault, Staking | TBU |
-| 2025 | Bonder | Launchpad | TBU |
+| 2025 | Tempest Finance | Liquidity Management, Vault, Staking | [📝](https://github.com/zenith-security/reports/blob/main/reports/Tempest%20Finance%20-%20Zenith%20Audit%20Report.pdf) |
 | 2025 | Vultisig | Launchpad | [📝](https://github.com/zenith-security/reports/blob/main/reports/Vultisig%20-%20Zenith%20Audit%20Report.pdf) |
-| 2025 | Bonder | Launchpad | TBU |
+| 2025 | Bonder | Launchpad | [📝](https://github.com/zenith-security/reports/blob/main/reports/Bonder%20-%20Zenith%20Audit%20Report.pdf) |
 | 2025 | Thrackle | AMM | TBU |
-| 2025 | Virtuals round 2 | AI Agents, Launchpad, Staking | TBU |
+| 2025 | Virtuals Genesis | AI Agents, Launchpad, Staking | [📝](https://github.com/zenith-security/reports/blob/main/reports/Virtuals%20Protocol%20Genesis%20-%20Zenith%20Audit%20Report.pdf) |
 | 2025 | Swell | L2, LST | [📝](https://github.com/zenith-security/reports/blob/main/reports/Swell%20-%20Zenith%20Audit%20Report.pdf) |
-| 2025 | Virtuals staking | Staking | TBU |
+| 2025 | Virtuals staking | Staking | [📝](https://github.com/zenith-security/reports/blob/main/reports/Virtuals%20Protocol%20Staking%20-%20Zenith%20Audit%20Report.pdf) |
+| 2025 | Orderly | Order book, Perpetuals | [📝](https://github.com/zenith-security/reports/blob/main/reports/Orderly%20-%20Zenith%20Audit%20Report%20(June).pdf) |
+| 2025 | Virtuals round 2 | AI Agents, Launchpad, Staking | TBU |
+| 2025 | Chateau | Cross-chain, OFT | [📝](https://github.com/zenith-security/reports/blob/main/reports/Chateau%20-%20Zenith%20Audit%20Report.pdf) |
+| 2025 | Gondi | Lending, Order book | [📝](https://github.com/zenith-security/reports/blob/main/reports/Gondi%20-%20Zenith%20Audit%20Report.pdf) |
+| 2025 | Virtuals round 3 | AI Agents, Launchpad, Staking | TBU |
+| 2025 | Gondi round 2 | Lending, Order book | [📝](https://github.com/zenith-security/reports/blob/main/reports/Gondi%20-%20Zenith%20Audit%20Report%20(October).pdf) |
+| 2025 | Fluffle | NFT | TBU |
+| 2025 | Thrackle round 2 | AMM | TBU |
