@@ -74,10 +74,10 @@
 
 | Year | Project | Category | Report |
 | :---: | :---: | :--- | :---  |
-| 2024 | Y2K | Vault | [📝](https://github.com/zenith-security/reports/blob/main/reports/2024-08-fractality-zenith.pdf) |
-| 2024 | XDefi | Migrator | [📝](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-08-xdefi-zenith.pdf) |
-| 2024 | ULTI | Yield | [📝](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-ulti-zenith.pdf) |
-| 2024 | TraitForge | GameFi | [📝](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-traitforge-zenith.pdf) |
+| 2024 | Y2K | Vault | [📝](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Fractality.pdf) |
+| 2024 | XDefi | Migrator | [📝](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20XDEFI.pdf) |
+| 2024 | ULTI | Yield | [📝](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20ULTI.pdf) |
+| 2024 | TraitForge | GameFi | [📝](https://github.com/zenith-security/reports/blob/main/reports/Code4rena%20-%20Traitforge%20Zenith%20Report.pdf) |
 | 2024 | SOFA | Vault | [📝](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-sofa-zenith.pdf) |
 | 2024 | Pooltogether | Yield | [📝](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-pooltogether-zenith.pdf) |
 | 2024 | Namespace | ENS | [📝](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-namespace-zenith.pdf) |
