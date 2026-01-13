@@ -15,7 +15,7 @@
 | 2024 | Doubler | Yield | 1st  | Private |
 | 2025 | Jigsaw Finance | Lending | 5th  | [📝](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview/leaderboard) |
 | 2025 | Makina CTF | Yield, Cross-chain | 1st  | [📝](https://cantina.xyz/code/2adf7150-27ba-4cba-86a2-bd8ea175e7da/overview/leaderboard) |
-| 2025 | Certora Capture The Funds CTF | CTF | 3rd  | [📝](https://x.com/Certora/status/2007114936380703194?s=20) |
+| 2025 | Certora Capture The Funds | CTF | 3rd  | [📝](https://x.com/Certora/status/2007114936380703194?s=20) |
 
 ### Team audits
 ---
